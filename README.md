@@ -1,7 +1,7 @@
 # 👋 Salut, moi c'est Paul (Lami)
 
-**Technicien IT junior** · support utilisateurs, postes Windows, réseau et virtualisation
-🎓 En formation **CFC d'informaticien + Bachelor** (double certification) au **Geneva Institute of Technology**, à Genève
+**Technicien IT junior** · support utilisateurs, postes Windows, réseau et virtualisation<br>
+🎓 En formation **CFC d'informaticien + Bachelor** (double certification) au **Geneva Institute of Technology**, à Genève<br>
 🔭 Je recherche un **stage** en Suisse romande
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-paulgiocanti-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulgiocanti)
@@ -28,7 +28,7 @@
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23_%2F_.NET-512BD4?logo=dotnet&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?logo=unity&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-6E7681?logo=unity&logoColor=white)
 ![HTML/CSS/JS](https://img.shields.io/badge/HTML_%2F_CSS_%2F_JS-E34F26?logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
